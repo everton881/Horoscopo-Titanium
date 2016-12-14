@@ -1,0 +1,31 @@
+"#titulo":{
+		
+		/*icon: "/imagens/zodiaco.png",		*/
+		backgroundColor:"black",
+		displayHomeAsUp:true
+		
+		
+	}
+	
+	"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "white"
+	
+}
+
+
+
+"#facebook" :{
+	
+	
+	width: 30,
+	height: 20,
+	image:"/imagens/log_facebook.png"
+	
+	
+	
+}
+
+
+
